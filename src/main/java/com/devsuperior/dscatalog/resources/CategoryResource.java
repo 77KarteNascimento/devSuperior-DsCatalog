@@ -26,4 +26,6 @@ public class CategoryResource {
 		return ResponseEntity.ok(list);	
 		
 	}
+	
+	//kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
 }
